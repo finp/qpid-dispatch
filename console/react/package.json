@@ -63,7 +63,7 @@
     "@types/jest": "^26.0.10",
     "body-parser": "^1.19.0",
     "browserslist": "^4.14.0",
-    "jest-axe": "^3.5.0",
+    "jest-axe": "^4.1.0",
     "prettier": "^2.0.5",
     "react-scripts": "^3.4.3",
     "jest-environment-jsdom-sixteen": "^1.0.3"
